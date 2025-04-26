@@ -1,5 +1,7 @@
 # MCP Prompt Server
 
+[![smithery badge](https://smithery.ai/badge/@gdli6177/mcp-prompt-server)](https://smithery.ai/server/@gdli6177/mcp-prompt-server)
+
 [English Version](README_EN.md)
 
 这是一个基于Model Context Protocol (MCP)的服务器，用于根据用户任务需求提供预设的prompt模板，帮助Cline/Cursor/Windsurf...更高效地执行各种任务。服务器将预设的prompt作为工具(tools)返回，以便在Cursor和Windsurf等编辑器中更好地使用。
@@ -30,6 +32,16 @@ prompt-server/
 ```
 
 ## 安装和使用
+
+### Installing via Smithery
+
+To install MCP Prompt Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@gdli6177/mcp-prompt-server):
+
+```bash
+npx -y @smithery/cli install @gdli6177/mcp-prompt-server --client claude
+```
+
+### Installing Manually
 
 1. 安装依赖：
 
