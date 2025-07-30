@@ -1,5 +1,17 @@
 # MCP Prompt Server
 
+> 🚀 **Upgrade Notice!**
+>
+> We have launched a brand new upgraded service based on MCP Prompt Server scenarios: [mypromptmcp.com](https://mypromptmcp.com/).
+>
+> On this platform, you can freely manage your own prompt templates online, flexibly combine and package them into MCP services, and easily integrate with various AI Agents or tools (such as Cursor, Windsurf, Cline, etc.), enabling cross-platform invocation and efficient collaboration.
+>
+> Experience more powerful prompt management and distribution now at [mypromptmcp.com](https://mypromptmcp.com/)!
+>
+> ⚠️ **Important Reminder:**
+>
+> MCP Prompt Server will continue to work, but we will no longer provide feature upgrades or maintenance. If you want to keep using the latest features, please migrate to [mypromptmcp.com](https://mypromptmcp.com/).
+
 This is a Model Context Protocol (MCP) based server that provides predefined prompt templates based on user task requirements, helping Cline/Cursor/Windsurf and other editors to execute various tasks more efficiently. The server returns predefined prompts as tools for better integration with editors like Cursor and Windsurf.
 
 ## Features

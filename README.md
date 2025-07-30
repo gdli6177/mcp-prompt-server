@@ -1,4 +1,15 @@
 # MCP Prompt Server
+> 🚀 **重要升级通知！**
+
+我们基于基于 MCP Prompt Server 使用场景，推出全新升级服务：[mypromptmcp.com](https://mypromptmcp.com/)。
+
+通过该平台，您可以在线自由管理自己的 prompt 提示词，并且允许灵活组合、打包成 MCP 服务，轻松集成到不同的 AI Agent 或工具中（如 Cursor、Windsurf、Cline 等），实现跨平台调用和高效协作。
+
+立即体验更强大的 prompt 管理与分发能力，访问 [mypromptmcp.com](https://mypromptmcp.com/) 了解详情！
+
+> ⚠️ **重要提醒：**
+>
+> MCP Prompt Server 依然可以正常使用，但后续我们将不再进行功能升级和维护。如果您希望持续获得最新的功能和体验，建议迁移并使用 [mypromptmcp.com](https://mypromptmcp.com)。
 
 [English Version](README_EN.md)
 
