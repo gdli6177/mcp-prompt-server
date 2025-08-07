@@ -11,6 +11,8 @@
 >
 > MCP Prompt Server 依然可以正常使用，但后续我们将不再进行功能升级和维护。如果您希望持续获得最新的功能和体验，建议迁移并使用 [mypromptmcp.com](https://mypromptmcp.com)。
 
+[![smithery badge](https://smithery.ai/badge/@kelvinzhao/mcp-prompt-server)](https://smithery.ai/server/@kelvinzhao/mcp-prompt-server)
+
 [English Version](README_EN.md)
 
 这是一个基于Model Context Protocol (MCP)的服务器，用于根据用户任务需求提供预设的prompt模板，帮助Cline/Cursor/Windsurf...更高效地执行各种任务。服务器将预设的prompt作为工具(tools)返回，以便在Cursor和Windsurf等编辑器中更好地使用。
