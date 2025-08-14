@@ -15,6 +15,10 @@
 
 这是一个基于Model Context Protocol (MCP)的服务器，用于根据用户任务需求提供预设的prompt模板，帮助Cline/Cursor/Windsurf...更高效地执行各种任务。服务器将预设的prompt作为工具(tools)返回，以便在Cursor和Windsurf等编辑器中更好地使用。
 
+<a href="https://glama.ai/mcp/servers/@gdli6177/mcp-prompt-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@gdli6177/mcp-prompt-server/badge" alt="Prompt Server MCP server" />
+</a>
+
 ## 功能特点
 
 - 提供预设的prompt模板，可用于代码审查、API文档生成、代码重构等任务
